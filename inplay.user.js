@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Cobain-Inplay Capture
+// @name         Inplay
 // @namespace    https://inplayip.net/
-// @version      1.2
-// @description  Userscript to capture Cobain-Inplay Data & post to our servers
+// @version      2.0
+// @description  Its a secret
 // @author       Ajay Alag
 // @match        https://inplayip.tv/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=inplayip.tv
