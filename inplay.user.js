@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cobain-Inplay Capture
 // @namespace    https://inplayip.net/
-// @version      1.1
+// @version      1.2
 // @description  Userscript to capture Cobain-Inplay Data & post to our servers
 // @author       Rohit Sharma
 // @match        https://inplayip.tv/*
@@ -10,7 +10,7 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
-// @connect      *
+// @connect      inplayip.net
 // @run-at       document-start
 // @updateURL    https://github.com/ajayalag1974/inplay/raw/main/inplay.user.js
 // @downloadURL  https://github.com/ajayalag1974/inplay/raw/main/inplay.user.js
