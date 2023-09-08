@@ -3,7 +3,7 @@
 // @namespace    https://inplayip.net/
 // @version      1.2
 // @description  Userscript to capture Cobain-Inplay Data & post to our servers
-// @author       Rohit Sharma
+// @author       Ajay Alag
 // @match        https://inplayip.tv/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=inplayip.tv
 // @grant        GM_xmlhttpRequest
