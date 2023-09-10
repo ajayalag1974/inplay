@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Reduce Inplay Latency
-// @namespace    https://inplayip.tv/
+// @namespace    https://inplayip.net/
 // @version      2.1
 // @description  This script reduces latency of real time streamings offered by Inplay
 // @author       Ajay Alag
